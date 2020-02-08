@@ -1,7 +1,7 @@
 # Eileen Wang's final project - An approachable way to find happiness
 
 # An Outline - High level summary of my project
-How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations. I'm interest is in 1) finding connections between factors that make people happy, and 2) using the data to suggest tangible and effective actions that will motivate viewers to pursue happiness now. 
+How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interest is in 1) finding connections between factors that make people happy, and 2) using the data to suggest tangible, effective, and personal actions that will motivate viewers to pursue happiness now. 
 
 # An Outline- Project structure / Story arc
 Beginning, a birds-eye view of each nation's happiness: 
@@ -9,17 +9,20 @@ Beginning, a birds-eye view of each nation's happiness:
 I'm thinking of using a map view that will show the happiness score and ranking as the mouse hovers over each nation. In this map, I will not give any clues for why each nation landed on their specific score. At this point, viewers may take a moment to process and make hypotheses about the factors that play into the happiness ranking.  
 
 Middle, giving viewers a little more context: 
-Here I will reveal the 6 factors that play into the happiness score. Each will follow with a brief description of what it is. At this point, viewers may think that each factor is of equal importance to each other. 
+Here I will reveal the 6 factors that play into the happiness score. Each will follow with a brief description of what it is. At this point, viewers may think that each factor as independent and abstract.  
 
-Climax, Realization that happiness is not a checklist: 
+Climax, realizing that reaching happiness does not mean checking off items on a list: 
 
-The initial assumption may be that each factor has equal weight in determining happiness. However, I want to share charts that show the relationship of two or more factors in affecting each country. For example, social support is highly correlated to healthy life expectancy. This might help viewers realize that the best way to obtain happiness is not by simply checking off each factor from their list. Rather, it's about examinining the relationship of factors, and understanding how they can create opportunities to nurture the factors together.
+The initial assumption may be that each factor has equal weight in determining happiness. However, I want to share charts that show the relationship of two or more factors in affecting each country. For example, social support is highly correlated to healthy life expectancy. This might help viewers realize that the best way to obtain happiness is not by simply checking off each factor from their list. Rather, it's about examinining the relationship of factors, and understanding how they can create opportunities to nurture the factors together. 
 
 Ending, a call to action:
 
-In the end, I want viewers to feel that obtaining happiness can be done through a tactile plan. To have a healthy life expectancy, find social support. I might link the audience to links like meetup.com to help them start building more extensive social circles. 
+In the end, I want viewers to feel that obtaining happiness for themselves can be done through a tactile plan. For example to continue the conversation that a healthy life expectancy is more likely when paired with social support, I might link the audience to pages like meetup.com to help them start building more extensive social circles. 
 
 # Initial sketches
+Map of happiness to introduce the initial impression gathered from the dataset: 
+
+Comparison of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
 
 # The data
 This dataset is from the ![World Happiness Report 2019](https://www.kaggle.com/unsdsn/world-happiness#2019.csv), which is supported by the United Nations, and also studied by global leaders to understand how they can improve happiness for citizens. The 6 factors that were used to estimate a overarching happiness score for each nation are: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. 
