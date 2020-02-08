@@ -1,4 +1,4 @@
-# Eileen Wang's final project - An approachable way to find happiness
+# Eileen Wang's final project - An tangible way to find happiness
 
 # An Outline - High level summary of my project
 How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interest is in 1) finding connections between factors that make people happy, and 2) using the data to suggest tangible, effective, and personal actions that will motivate viewers to pursue happiness now. 
@@ -21,8 +21,10 @@ In the end, I want viewers to feel that obtaining happiness for themselves can b
 
 # Initial sketches
 Map of happiness to introduce the initial impression gathered from the dataset: 
+![map)(map.jpg)
 
 Comparison of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
+![comparison](comparison.jpg)
 
 # The data
 This dataset is from the ![World Happiness Report 2019](https://www.kaggle.com/unsdsn/world-happiness#2019.csv), which is supported by the United Nations, and also studied by global leaders to understand how they can improve happiness for citizens. The 6 factors that were used to estimate a overarching happiness score for each nation are: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. 
