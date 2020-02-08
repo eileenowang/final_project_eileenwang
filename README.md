@@ -1,4 +1,5 @@
 # Eileen Wang's final project - An tangible way to find happiness
+This is part 1 of my final project for Storytelling with Data class, at Carnegie Mellon University. Below you will find my project proposal. 
 
 # An Outline - High level summary of my project
 How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interest is in 1) finding connections between factors that make people happy, and 2) using the data to suggest tangible, effective, and personal actions that will motivate viewers to pursue happiness now. 
@@ -21,7 +22,7 @@ In the end, I want viewers to feel that obtaining happiness for themselves can b
 
 # Initial sketches
 Map of happiness to introduce the initial impression gathered from the dataset: 
-![map)(map.jpg)
+![map](map.jpg)
 
 Comparison of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
 ![comparison](comparison.jpg)
