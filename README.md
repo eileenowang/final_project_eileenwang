@@ -1,14 +1,23 @@
-# Eileen Wang's final project
+# Eileen Wang's final project - An approachable way to find happiness
 
 # An Outline - High level summary of my project
-How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize to the mass easily. I'm interested in understanding how different countries score in factors that affect how people people are - such as social support, freedom to make life choices, and generosity. 
+How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations. I'm interest is in 1) finding connections between factors that make people happy, and 2) using the data to suggest tangible and effective actions that will motivate viewers to pursue happiness now. 
 
 # An Outline- Project structure / Story arc
-Beginning - An introduction to factors that determine happiness: I want to show a map view of the happiness score of people across different countries, without any additional clues for why. At this point, viewers may take a moment to process and note the factors that play into the happiness ranking.  
+Beginning, a birds-eye view of each nation's happiness: 
 
-Climax - Realization that happiness is not a checklist: The initial assumption may be that each factor has equal weight in determining happiness. However, I want to share charts that show the relationship of two or more factors in affecting each country. For example, social support is highly correlated to healthy life expectancy. This might help viewers realize that the best way to obtain happiness is not checking off each factor from their list. Rather, it's about examinining the relationship of two factors at play in their life. 
+I'm thinking of using a map view that will show the happiness score and ranking as the mouse hovers over each nation. In this map, I will not give any clues for why each nation landed on their specific score. At this point, viewers may take a moment to process and make hypotheses about the factors that play into the happiness ranking.  
 
-Call to action - Finding happiness is actually a tangible process: In the end, I want viewers to feel that obtaining happiness can be a tactile plan. To have a healthy life expectancy, find social support. I might link the audience to links like meetup.com to help them start building more extensive social circles. 
+Middle, giving viewers a little more context: 
+Here I will reveal the 6 factors that play into the happiness score. Each will follow with a brief description of what it is. At this point, viewers may think that each factor is of equal importance to each other. 
+
+Climax, Realization that happiness is not a checklist: 
+
+The initial assumption may be that each factor has equal weight in determining happiness. However, I want to share charts that show the relationship of two or more factors in affecting each country. For example, social support is highly correlated to healthy life expectancy. This might help viewers realize that the best way to obtain happiness is not by simply checking off each factor from their list. Rather, it's about examinining the relationship of factors, and understanding how they can create opportunities to nurture the factors together.
+
+Ending, a call to action:
+
+In the end, I want viewers to feel that obtaining happiness can be done through a tactile plan. To have a healthy life expectancy, find social support. I might link the audience to links like meetup.com to help them start building more extensive social circles. 
 
 # Initial sketches
 
