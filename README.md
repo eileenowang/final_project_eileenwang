@@ -5,23 +5,23 @@ This is part 1 of my final project for Storytelling with Data class, at Carnegie
 How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interested in 1) exploring and identifying key factors that drive happiness and how they relate to one another, and 2) using the data to suggest tangible and personal actions that will motivate viewers to pursue happiness now. 
 
 # An Outline- Project structure / Story arc
-1. Beginning, a birds-eye view of each nation's happiness: 
+*1* Beginning, a birds-eye view of each nation's happiness: 
 
 I'm thinking of using a map view that will show the happiness score and ranking as the mouse hovers over each nation. In this map, I will not give any clues for why each nation landed on their specific score. At this point, viewers may take a moment to process and make hypotheses about the factors that play into the happiness ranking.  
 
-2. Middle, giving viewers a little more context: 
+*2* Middle, giving viewers a little more context: 
 
 Here I will reveal the 6 factors that play into the happiness score. Each will follow with a brief description of what it is. At this point, viewers may think that each factor as independent and abstract.  
 
-3. Middle, looking at key drivers of happiness for each nation: 
+*3* Middle, looking at key drivers of happiness for each nation: 
 
 Here I want viewers to see that in the equation of happiness, each of the factors do not play an equal role. By showing a map with the factor that is driving the happiness score in each nation, viewer can begin to understand that the idea of happiness is driven by different motivations, locally and internationally. 
 
-4. Climax, realizing that reaching happiness does not mean checking off items on a list: 
+*4* Climax, realizing that reaching happiness does not mean checking off items on a list: 
 
 Continuing the conversation that happiness is driven by different factors across nations, I also want to share that there are important relationships between different factors as well. Initially, viewers may assume each factor has equal weight in determining happiness. However, I want to share charts that show the relationship of two or more factors in affecting each country. For example, social support is highly correlated to healthy life expectancy. This might help viewers realize that the best way to obtain happiness is not by simply checking off each factor from their list. Rather, it's about examinining the relationship of factors, and understanding how they can create opportunities to nurture the factors together. 
 
-5. Ending, a call to action:
+*5* Ending, a call to action:
 
 In the end, I want viewers to see that happiness is not an abstract concept, and they could obtain it for themselves through a tactile plan. For example, to continue the conversation that a healthy life expectancy is more likely when paired with social support, I might link the audience to pages like meetup.com to help them start building more extensive social circles. 
 
