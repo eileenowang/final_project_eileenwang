@@ -1,8 +1,8 @@
-# Eileen Wang's final project - An tangible way to find happiness
+# Eileen Wang's final project - A tangible way to find happiness
 This is part 1 of my final project for Storytelling with Data class, at Carnegie Mellon University. Below you will find my project proposal. 
 
 # An Outline - High level summary of my project
-How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interest is in 1) explore and identifying key factors that drive happiness and how they relate to one another, and 2) using the data to suggest tangible and personal actions that will motivate viewers to pursue happiness now. 
+How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interested in 1) exploring and identifying key factors that drive happiness and how they relate to one another, and 2) using the data to suggest tangible and personal actions that will motivate viewers to pursue happiness now. 
 
 # An Outline- Project structure / Story arc
 1. Beginning, a birds-eye view of each nation's happiness: 
@@ -10,9 +10,11 @@ How happy people are is a difficult question to answer- afterall, happiness is n
 I'm thinking of using a map view that will show the happiness score and ranking as the mouse hovers over each nation. In this map, I will not give any clues for why each nation landed on their specific score. At this point, viewers may take a moment to process and make hypotheses about the factors that play into the happiness ranking.  
 
 2. Middle, giving viewers a little more context: 
+
 Here I will reveal the 6 factors that play into the happiness score. Each will follow with a brief description of what it is. At this point, viewers may think that each factor as independent and abstract.  
 
 3. Middle, looking at key drivers of happiness for each nation: 
+
 Here I want viewers to see that in the equation of happiness, each of the factors do not play an equal role. By showing a map with the factor that is driving the happiness score in each nation, viewer can begin to understand that the idea of happiness is driven by different motivations, locally and internationally. 
 
 4. Climax, realizing that reaching happiness does not mean checking off items on a list: 
