@@ -44,3 +44,12 @@ I plan on using the data several ways: 1) I want to isolate certain datapoints -
 I plan on building my story using Shorthand. I think the linear format (scrolling down) will work well for helping viewers focus on one piece of information at a time, and not jump to conclusion. In terms of the data visualizations, I want to use Tableau to build the maps in stages 1, 3, and 4 in my story arc. 
 
 In order to complete my final projects, there are a couple items I need to work out. For stage 3, I need to clean the data and add a extra column to draw out the key factor driver of happiness for each nation in Excel. Next, in stage 4, even though I have my intent thought out for the data (show relationships between factors), I am not 100% confident that bar charts is the optimal data visualization. To find out, I will sketch a couple different visualziation solutions, and show my friends to gather some feedback. Stage 5's action recommendations are dependent on the key relationships I will identify in stage 4. Recommending that viewers sign up for Meetup is just one action I will have, and there should be 1 or 2 more actions that come out of the analysis from stage 4. 
+
+# Sources & Links 
+Data set is from: [World Happiness 2019 Report](https://www.kaggle.com/unsdsn/world-happiness#2019.csv)
+
+Visualizations will be made from: [Tableau](https://www.tableau.com/)
+
+Public link to [access this page](https://eileenowang.github.io/final_project_eileenwang/)
+
+[Return my main Data Visualization page](https://eileenowang.github.io/data-visualization/)
