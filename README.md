@@ -26,6 +26,8 @@ In the end, I want viewers to feel that obtaining happiness for themselves can b
 Map of happiness to introduce the initial impression gathered from the dataset: 
 ![map](map.jpg)
 
+Map of key factor that is driving happiness rating from the dataset: 
+![driver](driving happiness.jpg)
 Comparison of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
 ![comparison](comparison.jpg)
 
