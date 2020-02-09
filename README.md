@@ -23,7 +23,7 @@ Continuing the conversation that happiness is driven by different factors across
 
 5. Ending, a call to action:
 
-In the end, I want viewers to feel that obtaining happiness for themselves can be done through a tactile plan. For example to continue the conversation that a healthy life expectancy is more likely when paired with social support, I might link the audience to pages like meetup.com to help them start building more extensive social circles. 
+In the end, I want viewers to see that happiness is not an abstract concept, and they could obtain it for themselves through a tactile plan. For example, to continue the conversation that a healthy life expectancy is more likely when paired with social support, I might link the audience to pages like meetup.com to help them start building more extensive social circles. 
 
 # Initial sketches
 Map of happiness to introduce the initial impression gathered from the dataset: 
@@ -32,13 +32,13 @@ Map of happiness to introduce the initial impression gathered from the dataset:
 Map of key factor that is driving happiness rating from the dataset: 
 ![drivinghappiness](drivinghappiness.jpg)
 
-Comparison of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
+Relationships of factors to help viewers start thinking about how factors relate to each other, and are not just independent "checklist items":
 ![comparison](comparison.jpg)
 
 # The data
 This dataset is from the [World Happiness Report 2019](https://www.kaggle.com/unsdsn/world-happiness#2019.csv), which is supported by the United Nations, and also studied by global leaders to understand how they can improve happiness for citizens. The 6 factors that were used to estimate a overarching happiness score for each nation are: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. 
 
-I plan to plot the data onto a map to begin with, which will ignite viewer curiousity to study the rankings of each country. However, I am also looking to dig deeper into the relationship of pairs of factors, to understand if there is any correlation. I might use bar charts to illustrate where there is strong relationships and weak relationships. 
+I plan on using the data several ways: 1) I want to isolate certain datapoints - like the happiness ranking and happiness score for each nation, and create a map from it. This will form viewer's initial impression of the data. 2) I want to clean and draw out the key happiness factor (out of the 6 factors) for each nation. This means I will add a new column and insert a formula to translate each score for each factor in a % (to find out how each nation scored in each factor relative to how other nations scored on the same factor).  3) In order to find relationships between factors, I might have to reorganize some of the data in Excel or Tableau. 
 
 # Medium & Method
 I plan on building my story using Shorthand. I think the linear format (scrolling down) will work well for helping viewers focus on one piece of information at a time, and not jump to conclusion. In terms of the data visualizations, I want to use Tableau to build the maps in stages 1, 3, and 4 in my story arc. 
