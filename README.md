@@ -1,4 +1,4 @@
-# Eileen Wang's final project - A tangible way to find happiness
+# Eileen Wang's final project - Part I - A tangible way to find happiness
 This is part 1 of my final project for Storytelling with Data class, at Carnegie Mellon University. Below you will find my project proposal. 
 
 # An Outline - High level summary of my project
