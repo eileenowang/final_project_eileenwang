@@ -1,8 +1,12 @@
-# Eileen Wang's final project - Part I - A tangible way to find happiness
-This is part 1 of my final project for Storytelling with Data class, at Carnegie Mellon University. Below you will find my project proposal. 
+# Eileen Wang's final project - Part I - A tangible way to help elderly find happiness
+This is part I of my final project for Storytelling with Data class, at Carnegie Mellon University. Below you will find my project proposal. 
+
+Not what you are looking for? Find Part II & Part III here: 
+[Part II](https://eileenowang.github.io/final_project_part_ii/)
+[Part III]((https://eileenowang.github.io/final_project_part_iii/)
 
 # An Outline - High level summary of my project
-How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interested in 1) exploring and identifying key factors that drive happiness and how they relate to one another, and 2) using the data to suggest tangible and personal actions that will motivate viewers to pursue happiness now. 
+How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interested in 1) exploring and identifying key factors that drive happiness, and 2) using the data to suggest tangible and personal actions that will motivate my target persona to help elderly they care about to pursue happiness now. 
 
 # An Outline- Project structure / Story arc
 *1* Beginning, a birds-eye view of each nation's happiness: 
@@ -45,10 +49,16 @@ I plan on building my story using Shorthand. I think the linear format (scrollin
 
 In order to complete my final projects, there are a couple items I need to work out. For stage 3, I need to clean the data and add a extra column to draw out the key factor driver of happiness for each nation in Excel. Next, in stage 4, even though I have my intent thought out for the data (show relationships between factors), I am not 100% confident that bar charts is the optimal data visualization. To find out, I will sketch a couple different visualziation solutions, and show my friends to gather some feedback. Stage 5's action recommendations are dependent on the key relationships I will identify in stage 4. Recommending that viewers sign up for Meetup is just one action I will have, and there should be 1 or 2 more actions that come out of the analysis from stage 4. 
 
-# Sources & Links 
+# Sources 
 Data set is from: [World Happiness 2019 Report](https://www.kaggle.com/unsdsn/world-happiness#2019.csv)
 
 Visualizations will be made from: [Tableau](https://www.tableau.com/)
+
+# Links 
+
+[Part II of final project](https://eileenowang.github.io/final_project_part_ii/)
+
+[Part III of final project]((https://eileenowang.github.io/final_project_part_iii/)
 
 Public link to [access this page](https://eileenowang.github.io/final_project_eileenwang/)
 
