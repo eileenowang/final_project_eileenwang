@@ -58,7 +58,7 @@ Visualizations will be made from: [Tableau](https://www.tableau.com/)
 
 [Part II of final project](https://eileenowang.github.io/final_project_part_ii/)
 
-[Part III of final project]((https://eileenowang.github.io/final_project_part_iii/)
+[Part III of final project](https://eileenowang.github.io/final_project_part_iii/)
 
 Public link to [access this page](https://eileenowang.github.io/final_project_eileenwang/)
 
