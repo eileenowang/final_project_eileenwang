@@ -3,7 +3,8 @@ This is part I of my final project for Storytelling with Data class, at Carnegie
 
 Not what you are looking for? Find Part II & Part III here: 
 [Part II](https://eileenowang.github.io/final_project_part_ii/)
-[Part III]((https://eileenowang.github.io/final_project_part_iii/)
+
+[Part III](https://eileenowang.github.io/final_project_part_iii/)
 
 # An Outline - High level summary of my project
 How happy people are is a difficult question to answer- afterall, happiness is not a concept you can generalize across nations nor individuals. I'm interested in 1) exploring and identifying key factors that drive happiness, and 2) using the data to suggest tangible and personal actions that will motivate my target persona to help elderly they care about to pursue happiness now. 
